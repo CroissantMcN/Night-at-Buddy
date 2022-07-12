@@ -1,5 +1,5 @@
 # Night at Buddy (Decompile)
- A fully functional decompilation of [Night at Buddy](https://www.youtube.com/watch?v=mWFL-3PbV5U).
+ A fully functional decompilation of [Night at Buddy](https://www.youtube.com/watch?v=xyQJ5XkKkDQ).
  ![Screenshot](https://github.com/CroissantMcN/Night-at-Buddy/blob/main/Screenshot.png)
 ## Requirements
 - A very brave soul
